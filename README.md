@@ -4,7 +4,9 @@ A Hijri date picker for the **Dawoodi Bohra Fatimi calendar** — works with Rea
 
 The Dawoodi Bohra community uses a Fatimi Hijri calendar that differs by 1 day from the standard Islamic calendar on certain years. This package uses exact 30-year lookup tables (not the floating-point Kuwait Algorithm) to get those dates right.
 
----
+<a href="https://www.npmjs.com/package/bohra-datepicker"><img src="https://badge.fury.io/js/bohra-datepicker.svg"></a>
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Ben-Benston/bohra-datepicker/blob/main/LICENSE)
+[![TypeScript](https://img.shields.io/badge/language-TypeScript-3178C6)](https://www.typescriptlang.org)
 
 ## Install
 
@@ -239,4 +241,5 @@ Verified against the official Fatimi Dawat calendar.
 
 ## License
 
-MIT © Burhanuddin Nasikwala
+MIT — see [LICENSE](https://github.com/Ben-Benston/pdfcast/blob/main/LICENSE) for details.
+© Burhanuddin Nasikwala
