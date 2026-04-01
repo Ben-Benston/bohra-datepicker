@@ -1,0 +1,12 @@
+# 1. Development Folders
+src/
+test/
+.vscode/
+.github/
+node_modules/
+
+# 2. Config Files
+tsconfig.json
+tsup.config.ts
+.gitignore
+package-lock.json
