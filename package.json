@@ -60,5 +60,13 @@
     "react-dom": "^18.0.0",
     "tsup": "^8.5.1",
     "typescript": "^5.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ben-Benston/bohra-datepicker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ben-Benston/bohra-datepicker/issues"
+  },
+  "homepage": "https://github.com/Ben-Benston/bohra-datepicker#readme"
 }
